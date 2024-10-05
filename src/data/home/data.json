@@ -1,0 +1,35 @@
+
+[
+  {
+    "name": "Earth",
+    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/blue-marble-apollo-17-16x9-1.jpg?w=2048&format=webp"
+  },
+  {
+    "name": "Mars",
+    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/mars-full-globe-16x9-1.jpg?w=2048&format=webp"
+  },
+  {
+    "name": "Jupiter",
+    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/jupiter-marble-pia22946-16x9-1.jpg?w=2048&format=webp"
+  },
+  {
+    "name": "Saturn",
+    "image": "https://science.nasa.gov/wp-content/uploads/2023/05/saturn-farewell-pia21345-sse-banner-1920x640-1.jpg?w=2048&format=webp"
+  },
+  {
+    "name": "Uranus",
+    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/uranus-pia18182-16x9-1.jpg?w=2048&format=webp"
+  },
+  {
+    "name": "Neptune",
+    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/pia01492-neptune-full-disk-16x9-1.jpg?w=2048&format=webp"
+  },
+  {
+    "name": "Venus",
+    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2-16x9-1.jpg?w=2048&format=webp"
+  },
+  {
+    "name": "Mercury",
+    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/pia15162-mercury-basins-messenger-16x9-1.jpg?w=2048&format=webp"
+  }
+]
