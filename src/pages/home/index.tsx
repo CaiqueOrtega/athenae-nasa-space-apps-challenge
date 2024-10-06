@@ -1,15 +1,13 @@
-import planets from "../../data/home/data.json"
+import PlanetSlider from "../../components/home/planetsSlider";
 
-export default function Init(){
-  return(
+export default function Init() {
+  return (
     <>
-      <div className="h-full bg-black">
-        <div className="flex">
-          {planets.map((planet: {name: string, image: string}) => (
-              <img src={planet.image} alt="" className="w-full h-full rounded-full"/>
-          ))}
-        </div>  
+      <div className="w-full h-full flex justify-center bg-[url('../../assets/images/backgrounds/starrySky.jpeg')] bg-cover">
+        <div className="container px-6 py-24">
+          <PlanetSlider />
+        </div>
       </div>
     </>
-  )
+  );
 }

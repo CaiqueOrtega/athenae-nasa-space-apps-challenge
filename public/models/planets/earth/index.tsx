@@ -16,7 +16,7 @@ export default function Model(props: any) {
   const { nodes, materials } = useGLTF('/models/planets/earth/earth.gltf') as unknown as ModelProps; 
   return (
     <group {...props} dispose={null}>
-      <mesh geometry={nodes.Object_4.geometry} material={materials['Scene_-_Root']} scale={1.128} />
+      <mesh geometry={nodes.Object_4.geometry} material={materials['Scene_-_Root']} scale={2.128} />
     </group>
   )
 }

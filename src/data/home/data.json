@@ -1,35 +1,51 @@
-
 [
   {
+    "name": "Venus",
+    "image": "src/assets/images/planets/venus.png",
+    "width": 240,
+    "height": 240
+  },
+  {
     "name": "Earth",
-    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/blue-marble-apollo-17-16x9-1.jpg?w=2048&format=webp"
+    "image": "src/assets/images/planets/earth.png",
+    "width": 290,
+    "height": 290
   },
   {
     "name": "Mars",
-    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/mars-full-globe-16x9-1.jpg?w=2048&format=webp"
+    "image": "src/assets/images/planets/mars.png",
+    "width": 210,
+    "height": 210
   },
   {
     "name": "Jupiter",
-    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/jupiter-marble-pia22946-16x9-1.jpg?w=2048&format=webp"
+    "image": "src/assets/images/planets/jupiter.png",
+    "width": 470,
+    "height": 470
   },
   {
     "name": "Saturn",
-    "image": "https://science.nasa.gov/wp-content/uploads/2023/05/saturn-farewell-pia21345-sse-banner-1920x640-1.jpg?w=2048&format=webp"
+    "image": "src/assets/images/planets/saturn.png",
+    "width": 350,
+    "height": 200
+
   },
   {
     "name": "Uranus",
-    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/uranus-pia18182-16x9-1.jpg?w=2048&format=webp"
+    "image": "src/assets/images/planets/uranus.png",
+    "width": 290,
+    "height": 290
   },
   {
     "name": "Neptune",
-    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/pia01492-neptune-full-disk-16x9-1.jpg?w=2048&format=webp"
-  },
-  {
-    "name": "Venus",
-    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2-16x9-1.jpg?w=2048&format=webp"
+    "image": "src/assets/images/planets/neptune.png",
+    "width": 290,
+    "height": 290
   },
   {
     "name": "Mercury",
-    "image": "https://science.nasa.gov/wp-content/uploads/2024/03/pia15162-mercury-basins-messenger-16x9-1.jpg?w=2048&format=webp"
+    "image": "src/assets/images/planets/mercury.png",
+    "width": 180,
+    "height": 180
   }
 ]

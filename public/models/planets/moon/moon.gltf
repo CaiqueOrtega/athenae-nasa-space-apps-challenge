@@ -58,8 +58,8 @@
     "extras": {
       "author": "PatelDev (https://sketchfab.com/PatelDev)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/sun-22d690373f704f2295d3456288d71ca5",
-      "title": "Sun"
+      "source": "https://sketchfab.com/3d-models/earth-f7a76c63ff1846afb2d606e5c8369c15",
+      "title": "Earth"
     },
     "generator": "Sketchfab-12.68.0",
     "version": "2.0"
@@ -91,7 +91,7 @@
   "buffers": [
     {
       "byteLength": 1840512,
-      "uri": "sun.bin"
+      "uri": "moon.bin"
     }
   ],
   "images": [
@@ -107,7 +107,7 @@
         "baseColorTexture": {
           "index": 0
         },
-        "metallicFactor": 0.008064521852509025,
+        "metallicFactor": 0.0,
         "roughnessFactor": 0.4
       }
     }
@@ -189,17 +189,17 @@
         4
       ],
       "matrix": [
-        2.6330158710479736,
+        1.127645492553711,
         0.0,
         0.0,
         0.0,
         0.0,
-        2.6330158710479736,
+        1.127645492553711,
         0.0,
         0.0,
         0.0,
         0.0,
-        2.6330158710479736,
+        1.127645492553711,
         0.0,
         0.0,
         0.0,

@@ -13,12 +13,12 @@ type ModelProps = {
 }
 
 export default function Model(props: any) {
-  const { nodes, materials } = useGLTF('/models/planets/sun/sun.gltf') as unknown as ModelProps; 
+  const { nodes, materials } = useGLTF('/models/planets/moon/moon.gltf') as unknown as ModelProps; 
   return (
     <group {...props} dispose={null}>
-      <mesh geometry={nodes.Object_4.geometry} material={materials['Scene_-_Root']} scale={1.128} />
+      <mesh geometry={nodes.Object_4.geometry} material={materials['Scene_-_Root']} scale={2.128} />
     </group>
   )
 }
 
-useGLTF.preload('/models/planets/sun/sun.gltf')
+useGLTF.preload('/models/planets/moon/moon.gltf')
